@@ -21,6 +21,9 @@ files {
 }
 
 dependencies {
+    'oxmysql',
+    'screenshot-basic'
+}
     "yarn",
     "webpack"
 }
