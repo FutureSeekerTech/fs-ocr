@@ -14,6 +14,7 @@ Buat yang belum tau apa itu OCR Detection di FS-OCR  ini, OCR adalah Optical cha
 
 ## Dependency
     1. OXMYSQL
+    2. screenshot-basic
 
 ## Penggunaan
     1. Pada resource fs-ocr rubah webhook pada webhook.lua ke discord webhook kalian
